@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hello from Brazil! :brazil: :wave:</h2>
+  <h2> Hey!! :brazil: :wave:</h2>
 </div>
 <div align="center">
   <a href="https://github.com/brunopma">
